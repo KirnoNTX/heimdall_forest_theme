@@ -3,8 +3,12 @@
 
 ## Images
 
-![home](./doc/home.png)
-![home_search](./doc/home_search.png)
+<p align="center">
+	<img src="./doc/home.png" alt="home"/>
+</p>
+<p align="center">
+	<img src="./doc/home_search.png" alt="home_search"/>
+</p>
 
 ## Features
 
