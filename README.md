@@ -1,4 +1,4 @@
-# Heimdall Tokyo Theme
+# Heimdall Forest Theme
 *By Kirno*
 
 ## Images
